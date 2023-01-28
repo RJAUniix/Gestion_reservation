@@ -1,0 +1,18 @@
+D'abord vous devez importer la base de données SQL intitulée : "gestion_reservation.sql" dans votre serveur local.
+Le fichier SQL se trouve juste en haut entre le fichier "config.inc.php" et "index.php"
+
+***************************
+
+Utiliser mon login et mon mdp pour accèder à l'application
+
+login : johanne	
+mot de passe : 123
+
+***************************
+
+-Si cette methode de fonctionne pas "INSCRIVEZ-VOUS EN CLIQUANT SUR LE BOUTON S'INSCRIRE"
+-PUIS UTILISER LE LOGIN QUE VOUS AVEZ CHOISIS ET VOTRE MOT DE PASS
+
+***************************
+
+BONNE VISITE :-)
