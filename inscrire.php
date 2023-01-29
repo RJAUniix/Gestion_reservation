@@ -28,7 +28,6 @@ if($uname!='' && $mdp!=''){
 
     if($nom!='' && $prenom!='' && $tel!=''){
         $requete = "INSERT INTO receptionniste SET idRecep='".$idR."',nomRecep='".$nom."',prenomRecep='".$prenom."',telReceptionniste='".$tel."',idUtilisateur='".$idU."' ";
-        echo $requete;
         mysqli_query($connexion,$requete);
     }
 
